@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C# 8 seminar/1.0.0": {
+        "runtime": {
+          "C# 8 seminar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C# 8 seminar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
