@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "С# 9 seminar/1.0.0": {
+        "runtime": {
+          "С# 9 seminar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "С# 9 seminar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
